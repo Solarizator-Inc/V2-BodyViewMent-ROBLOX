@@ -21,4 +21,7 @@ No other bugs are recorded, however reply to this post in order for me to check 
 ---
 # Where you can get it
 
-You can get it on the [Creator Store](https://create.roblox.com/store/asset/89662365987335/First-Person-Viewmodel-w-Head-Movement). Can't get it on Creator Store? Download it by
+You can get it on the [Creator Store](https://create.roblox.com/store/asset/89662365987335/First-Person-Viewmodel-w-Head-Movement). Can't get it on Creator Store? Download it by clicking [here](https://github.com/user-attachments/files/18279466/V1.BodyViewMent.zip).
+
+---
+# Have fun!
