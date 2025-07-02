@@ -2,10 +2,6 @@
 > [!CAUTION]
 > Both versions of BodyViewMent, [V1](https://create.roblox.com/store/asset/89662365987335) and [V2](https://create.roblox.com/store/asset/91510699816696), have been deprecated as *Realism is a better source.* Use that instead, *as I now discourage using this.* There is a [Github](https://github.com/MaximumADHD/Character-Realism) for Character Realism, but it is also on the [Creator Store](https://create.roblox.com/store/asset/8421693529/Character-Realism) if you do not want to download the RBXM file or use Rojo in order to set it up.
 ---
-# About the V2 BodyViewMent
-BodyViewMent V2 fixes a bug that was found within V1, which is that the camera glitches when close to the head. This is because V1 used
-(game.Workspace.CurrentCamera.CFrame.Position - head.Position).Magnitude <= 2.5
-which is inefficient. Sadly, no more head movement, but camera offset is still added. No known bugs were found, however if there is, issue the error.
 # How to get
 Go to the [Creator Store](https://create.roblox.com/store/asset/91510699816696) (RECOMMENDED) or download the [ZIP file](https://github.com/user-attachments/files/19275286/BodyViewMent.V2.zip).
 # How to setup
